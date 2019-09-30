@@ -1,4 +1,4 @@
-def sqaure_array(array)
+def square_array(array)
 
 new_array = []
 counter=0
