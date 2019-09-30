@@ -1,6 +1,6 @@
 def sqaure_array(array)
 
-new_Array = []
+new_array = []
 counter=0
 
 while counter < array.length do
