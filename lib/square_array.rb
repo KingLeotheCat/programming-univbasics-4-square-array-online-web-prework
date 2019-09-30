@@ -9,3 +9,4 @@ def output_array_elements(array)
     counter += 1
   end
 end
+
